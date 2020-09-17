@@ -7,3 +7,5 @@ Learn how to implement tabbar in swiftui in this SwiftUI tutorial for beginners.
 Implementing TabView in SwiftU can be a bit tricky if you are coming from UIKit land. But you can learn from these swiftUI tutorial tips and tricks. This video is a swiftui basics for beginners where you will learn how to add a tabbedview.
 
 So if you’re looking for SwiftUI – Tabbed View (2019) than look no further. This is the perfect swift ui tutorial where you can learn about swiftui tabbedview.
+
+https://www.youtube.com/watch?v=tDyvkIe9RsA&list=PL_csAAO9PQ8Z1pbr-u6dSmDQTLZzDgcaP&index=6
